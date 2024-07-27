@@ -1,11 +1,1 @@
-# Database design 
-# We have created sample data for a coffee shop chain with three locations in Omaha, NE. The owner want to identify factors that contribute to their success, 
-#and ultimately to make data-informed decisions.
 
-#They uploaded their data in a series of spreadsheets and created a data module. From that data, they designed an operations dashboard and a marketing dashboard. 
-#Coffee operations: This sample dashboard demonstrates operational data from a fictional coffee chain. Location: Team content > Samples > Dashboards.
-#Coffee marketing: This sample dashboard demonstrates marketing data from a fictional coffee chain. Location: Team content > Samples > Dashboards.
-#Coffee sales and marketing: This sample data module contains representative retail data from a fictional coffee chain. Location: Team content > Samples > Data.
-#April Sales.zip: This sample data contains representative retail data from a fictional coffee chain. This ZIP file contains nine related CSV files. Location: Team content > Samples > Data > Source files > Retail.# Objective: 
-## There are 3 steps in designing database
-### Step 1: requirement analysis -- collecting business requirements
